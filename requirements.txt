@@ -6,3 +6,5 @@ seaborn==0.13.0
 pandas==2.1.0
 streamlit # Using this older version as specified
 librosa==0.10.1
+requests==2.26.0
+urllib3==1.26.7
